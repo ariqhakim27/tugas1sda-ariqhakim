@@ -4,4 +4,4 @@ KELAS   :   B (02)
 
 TUGAS 1 SDA            :   Array (https://app.schoology.com/assignment/5719484907/info)
 Link Profil Github     :   https://github.com/ariqhakim27
-Link File Github       : 
+Link File Github       :   https://github.com/ariqhakim27/tugas1sda-ariqhakim
